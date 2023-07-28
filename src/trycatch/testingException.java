@@ -1,6 +1,6 @@
 package trycatch;
 
-public class TestingExceptionPrintStackTrace {
+public class testingException {
 
     public static void main(String[] args) {
         testException();
